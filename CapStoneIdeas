@@ -1,0 +1,10 @@
+Here are a list of my three ideas for my possible Capstone Project
+
+1) Physician Recomendation System: utilize machine learning and collaborative filtering techniques on the CMS Physician Care dataset to 
+   recomend the best physician match for a patient based on a variety off criteria. 
+   
+2) Movie Recomendation System: utilize clustering and collaborative filtering on the MovieLens dataset to build a 
+   recommendation system.
+   
+3) Network Leakage: Utilize machine learning to identify abnormalities in physician referral data to identify network leakage paterns. 
+   We would utilize a dataset that we are currently working with in my commercial venture working with Baystate Health
